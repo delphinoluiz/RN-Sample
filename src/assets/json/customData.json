@@ -1,0 +1,379 @@
+{
+    "welcome": {
+        "label": "Welcome",
+        "questions": [
+            "Hi, there",
+            "Welcome to ZenTAP!",
+            "One tap to begin marketing.",
+            "First customized marketing is only one tap away!",
+            "What should work on?"
+        ],
+        "answers": [
+            {
+                "key": "web_solutions",
+                "value": "Web Solutions"
+            },
+            {
+                "key": "promote_my_brand",
+                "value": "Promote my Brand"
+            },
+            {
+                "key": "promote_my_listing",
+                "value": "Promote my Listing"
+            },
+            {
+                "key": "get_me_leads",
+                "value": "Get me Leads"
+            }
+        ]
+    },
+
+    "web_solutions": {
+        "label": "Web Solutions",
+        "questions": [
+            "We specialize in creating customized IDC lead generation websites.",
+            "TAP! into the power of a website that acutally generates resultes.",
+            "Who should we focus on for your lead generation website?"
+        ],
+        "answers": [
+            {
+                "key": "authentication",
+                "value": "IDX Website"
+            },
+            {
+                "key": "authentication",
+                "value": "Landing Page"
+            },
+            {
+                "key": "authentication",
+                "value": "Property Website"
+            },
+            {
+                "key": "authentication",
+                "value": "SEO"
+            }
+        ]
+    },    
+
+    "promote_my_brand": {
+        "label": "Brand Promotion",
+        "questions": [
+            "Zentap creates customized content to engage buyers and sellers in your local market.",
+            "Do you want us to create you a Video, Flyer, or Blog Content?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_brand_videos",
+                "value": "Videos"
+            },
+            {
+                "key": "promote_my_brand_flyers",
+                "value": "Flyers"
+            },
+            {
+                "key": "promote_my_brand_blog_content",
+                "value": "Blog Content"
+            }
+        ]
+    },
+    "promote_my_brand_videos": {
+        "label": "",
+        "questions": [
+            "Leverage ZenTAP to create customized videos for your clients or branding videos for your business.",
+            "Do you want us to create a congratulatory video or a branding video?"
+        ],
+        "answers": [
+            {
+                "key": "authentication",
+                "value": "Congratulations"
+            },
+            {
+                "key": "promote_my_brand_videos_branding",
+                "value": "Branding"
+            }
+        ]
+    },     
+    
+    "promote_my_brand_videos_branding": {
+        "label": "",
+        "questions": [
+            "Are you marketing to buyers, sellers, or both?"
+        ],
+        "answers": [
+            {
+                "key": "authentication",
+                "value": "Buyers"
+            },
+            {
+                "key": "authentication",
+                "value": "Sellers"
+            },
+            {
+                "key": "brand_promotion_videos_branding_both",
+                "value": "Both"
+            }
+        ]
+    },
+
+    "promote_my_listing": {
+        "label": "Listing Promotion",
+        "questions": [
+            "Leverage ZenTAP to sell your listing quickly!.",
+            "Should we market your listing with a video, flyer, or a single property website?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_listing_videos",
+                "value": "Videos"
+            },
+            {
+                "key": "promote_my_listing_flyers",
+                "value": "Flyers"
+            },
+            {
+                "key": "promote_my_listing_single_property_websites",
+                "value": "Single Property Websites"
+            }
+        ]
+    },
+    "promote_my_listing_videos": {
+        "label": "Video Creation",
+        "questions": [
+            "What kind of Video would you like ZenTAP to create?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_listing_videos_coming_soon",
+                "value": "Coming Soon"
+            },
+            {
+                "key": "promote_my_listing_videos_open_house",
+                "value": "Open House"
+            },
+            {
+                "key": "promote_my_listing_videos_new_listing",
+                "value": "New Listing"
+            },
+            {
+                "key": "promote_my_listing_videos_sold_listing",
+                "value": "Sold Listing"
+            }
+        ]
+    },
+    "promote_my_listing_videos_coming_soon": {
+        "lablel": "",
+        "questions": [
+            "Do you want to schedule this video to be posted on Facebook?"
+        ],
+        "answers": [
+            {
+                "key": "datepicker",
+                "value": "Yes"
+            },
+            {
+                "key": "authentication",
+                "value": "No"
+            }
+        ]
+    },
+    "promote_my_listing_videos_open_house": {
+        "lablel": "",
+        "questions": [
+            "Do you want to schedule this video to be posted on Facebook?"
+        ],
+        "answers": [
+            {
+                "key": "datepicker",
+                "value": "Yes"
+            },
+            {
+                "key": "authentication",
+                "value": "No"
+            }
+        ]
+    },
+    "promote_my_listing_videos_new_listing": {
+        "lablel": "",
+        "questions": [
+            "Do you want to schedule this video to be posted on Facebook?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_listing_videos_new_listing_yes",
+                "value": "Yes"
+            },
+            {
+                "key": "promote_my_listing_videos_new_listing_no",
+                "value": "No"
+            }
+        ]
+    },
+    "promote_my_listing_videos_sold_listing": {
+        "lablel": "",
+        "questions": [
+            "Do you want to schedule this video to be posted on Facebook?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_listing_videos_sold_listing_yes",
+                "value": "Yes"
+            },
+            {
+                "key": "promote_my_listing_videos_sold_listing_no",
+                "value": "No"
+            }
+        ]
+    },
+
+    "promote_my_listing_flyers": {
+        "label": "Flyer Creation",
+        "questions": [
+            "What kind of Flyer would you like ZenTAP to create?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_listing_flyers_coming_soon",
+                "value": "Coming Soon"
+            },
+            {
+                "key": "promote_my_listing_flyers_open_house",
+                "value": "Open House"
+            },
+            {
+                "key": "promote_my_listing_flyers_new_listing",
+                "value": "New Listing"
+            },
+            {
+                "key": "promote_my_listing_flyers_sold_listing",
+                "value": "Sold Listing"
+            }
+        ]
+    },
+    "promote_my_listing_flyers_coming_soon": {
+        "lablel": "",
+        "questions": [
+            "Do you want to schedule this video to be posted on Facebook?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_listing_flyers_coming_soon_yes",
+                "value": "Yes"
+            },
+            {
+                "key": "promote_my_listing_flyers_coming_soon_no",
+                "value": "No"
+            }
+        ]
+    },
+    "promote_my_listing_flyers_open_house": {
+        "lablel": "",
+        "questions": [
+            "Do you want to schedule this video to be posted on Facebook?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_listing_flyers_open_house_yes",
+                "value": "Yes"
+            },
+            {
+                "key": "promote_my_listing_flyers_open_house_no",
+                "value": "No"
+            }
+        ]
+    },
+    "promote_my_listing_flyers_new_listing": {
+        "lablel": "",
+        "questions": [
+            "Do you want to schedule this video to be posted on Facebook?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_listing_flyers_new_listing_yes",
+                "value": "Yes"
+            },
+            {
+                "key": "promote_my_listing_flyers_new_listing_no",
+                "value": "No"
+            }
+        ]
+    },
+    "promote_my_listing_flyers_sold_listing": {
+        "lablel": "",
+        "questions": [
+            "Do you want to schedule this video to be posted on Facebook?"
+        ],
+        "answers": [
+            {
+                "key": "promote_my_listing_flyers_sold_listing_yes",
+                "value": "Yes"
+            },
+            {
+                "key": "promote_my_listing_flyers_sold_listing_no",
+                "value": "No"
+            }
+        ]
+    },
+
+    "get_me_leads": {
+        "label": "Lead Generation",
+        "questions": [
+            "ZenTAP creates Search Engine Optimized content and targets local buyers and sellers!",
+            "What type of content should we create for you?"
+        ],
+        "answers": [
+            {
+                "key": "get_me_leads_buyer_leads",
+                "value": "Buyer Leads"
+            },
+            {
+                "key": "get_me_leads_seller_leads",
+                "value": "Seller Leads"
+            }
+        ]
+    },
+    "get_me_leads_buyer_leads": {
+        "label": "",
+        "questions": [
+            "Want to market your single property site directly to homebuyers?"
+        ],
+        "answers": [
+            {
+                "key": "authentication",
+                "value": "Yes"
+            },
+            {
+                "key": "authentication",
+                "value": "No"
+            }
+        ]
+    },
+    "get_me_leads_seller_leads": {
+        "label": "",
+        "questions": [
+            "Want to market your single property site directly to homesellers?"
+        ],
+        "answers": [
+            {
+                "key": "authentication",
+                "value": "Yes"
+            },
+            {
+                "key": "authentication",
+                "value": "No"
+            }
+        ]
+    },
+
+    "authentication": {
+        "label": "",
+        "questions":[
+            "Please login with facebook."
+        ],
+        "answers": [
+            {
+                "key": "facebook_login",
+                "value": "Facebook Login"
+            }
+        ]
+    },
+}
